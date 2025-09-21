@@ -1,0 +1,2 @@
+I originally tried making this using multiple classes, however once I got to the step which asked for the parallel arrays I had to read ahead in the book to even understand how a parallel array. (Barely have coded using a single array prior to this class)
+After that point it was fairly simple. A mix of for and while loops to collect the information about the users favorites and their taste. Overall, my biggest struggle was definetely my beginning. I did not set myself up for success at the start!
