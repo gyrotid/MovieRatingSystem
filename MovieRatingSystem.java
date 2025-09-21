@@ -130,6 +130,6 @@ public class MovieRatingSystem
             System.out.println("Good choice!");
     }
 
-    String recommendation = genre.equalsIgnoreCase("Sci-Fi") ? "We recommend watching 'Interstellar'." : "We recommend watching 'The Dark Knight'.";
+    String recommendation = genre("Sci-Fi") ? "We recommend watching 'Interstellar'." : "We recommend watching 'The Dark Knight'.";
     System.out.println(recommendation);
 }
